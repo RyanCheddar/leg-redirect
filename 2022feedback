@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+	<html>
+	  <head>
+	    <title>Redirecting...</title>
+	    <meta content="Leg's End-of-2022 Feedback Form" property="og:title" />
+	    <meta content="Fill this in and get access to an exclusive giveaway!" property="og:description" />
+	    <meta content="https://cdn.discordapp.com/attachments/902857434589192222/1057337492082262036/Legie.png" property="og:image" />
+	    <meta content="#FC766A" data-react-helmet="true" name="theme-color" />
+	    <meta name="twitter:card" content="summary_large_image">
+	    <meta http-equiv="refresh" content="0; url='https://docs.google.com/forms/d/e/1FAIpQLScL0uGwetw9mt0LrxEeddw7i1UfgeJi2o-Q9X8DuNBH87DcCg/viewform?usp=sf_link'" />
+	  </head>
+	  <body>
+	    <p>Please wait... If nothing happens, <a href="https://docs.google.com/forms/d/e/1FAIpQLScL0uGwetw9mt0LrxEeddw7i1UfgeJi2o-Q9X8DuNBH87DcCg/viewform?usp=sf_link">click here</a> to continue!</p>
+	  </body>
+	</html>
